@@ -1,6 +1,6 @@
 # Multipath TCP parser
 
-Code for parsing pcap using libcap in c++
+Code for parsing pcap using libpcap in c++
 
   - Takes an input .pcap dump file
   - Extracts TCP flows
